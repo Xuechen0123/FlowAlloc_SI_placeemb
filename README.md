@@ -2,6 +2,8 @@
 ## Abstract
 The development of geospatial artificial intelligence (GeoAI) systems depends on the ability to learn effective representations of places. To learn accurate place representations from spatial interactions, it is important to extract features that capture both the spatial and non-spatial driving factors. However, existing methods lack a robust interpretation and the explanatory power of the learned representations on spatial factors remains unexplored. Here, we propose an approach to learning place representations from spatial interactions. Our method is inspired by flow allocation, which is the main focus of single-constrained gravity models. We first validate the method on synthetic flows with known driving factors and then apply it to multi-scale real-world flows. Results show that the learned representations can effectively capture features that explain place characteristics, along with the impact of spatial impedance. Our study not only contributes an efficient method to learn place representations from spatial interactions but also offers insights into pre-training procedures in GeoAI.
 
+![image](https://github.com/Xuechen0123/FlowAlloc_SI_placeemb/blob/main/img/Fig1_Schematic_of_the_workflow.png)
+
 # Basic Usage
 
 ## Preparation

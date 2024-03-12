@@ -4,6 +4,8 @@ We generated 1000 random points as places within the rectangular region defined 
     $$G_{ij}= k\frac{{P_i}^{\alpha}{{A_j}^{\gamma}}}{{d_{ij}^{\beta}}},$$
 where $P\sim\rm{Lognormal}\left(3,1\right)$, $A\sim\rm{Lognormal}\left(3,1\right)$, $d_{ij}=\sqrt{(x_i-x_j)^2+(y_i-y_j)^2}$.
 
+![image](https://github.com/Xuechen0123/FlowAlloc_SI_placeemb/blob/main/img/Fig2_Synthetic_data.png)
+
 # Data format
 
 ## Place data
