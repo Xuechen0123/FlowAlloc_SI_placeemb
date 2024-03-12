@@ -1,1 +1,0 @@
-python3 src/main.py --num-places=1000 --representation-save-file=emb/embeddings.pkl --place-embed-dim=32 --gpu=2 --lr=1e-3 --adam-beta1=0.9 --adam-beta2=0.999 --wd=1e-2 --batch-size=32 --num-epochs=500 --warmup-epochs=10 --print-freq=100 --optimize-out --optimize-in
