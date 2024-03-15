@@ -26,8 +26,8 @@ Place representations are saved in the specified save folder in .pkl format.
 
 Run pickle.load to access the saved result which is organized as python dict:
 
-- 'place_id': list of place ids, origin/destination are organized according to the place_id_list
+- place_id: list of place ids, origin/destination are organized according to the place_id_list
 
-- 'origin_representation': array of len(place_id_list) $\times$ embedding dim
+- origin_representation: array of len(place_id_list) $\times$ embedding dim
 
-- 'destination_representation': array of len(place_id_list) $\times$ embedding dim
+- destination_representation: array of len(place_id_list) $\times$ embedding dim
